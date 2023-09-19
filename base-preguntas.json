@@ -1,0 +1,434 @@
+[
+    {
+        "categoria": "Física - Unidades de Medición",
+        "pregunta": "La física es:",
+        "respuesta": "a. Interacciones de la materia con la materia o con la energía",
+        "incorrecta1":"b. Interacciones que conducen a un cambio de movimiento",
+        "incorrecta2":"c. Interacciones en el interior de la materia",
+        "incorrecta3":"d. Interacciones de la luz con la materia",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://www.areaciencias.com/wp-content/uploads/2020/10/que-es-fisica.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Unidades de Medición",
+        "pregunta": "El calor es:",
+        "respuesta": "c. Interacciones en el interior de la materia",
+        "incorrecta1":"b. Interacciones entre particulas en movimiento periodico",
+        "incorrecta2":"a. Interacciones que conducen a un cambio de movimiento",
+        "incorrecta3":"d. Interacciones de la luz con la materia",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://curiosfera-ciencia.com/wp-content/uploads/2021/02/que-es-el-calor.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Unidades de Medición",
+        "pregunta": "Magnitud es:",
+        "respuesta": "c. Todo aquello que es susceptible a ser medido",
+        "incorrecta1":"b. Es aquella que sirve de base de comparacón",
+        "incorrecta2":"a. Es la acción de comparar dos magnitudes homogéneas de la misma especie",
+        "incorrecta3":"d. a y c",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://multitareas.net/wp-content/uploads/2021/09/magnitudes-fisicas.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Unidades de Medición",
+        "pregunta": "Unidad es:",
+        "respuesta": "d. Es la magnitud que sirve de base de comparación",
+        "incorrecta1":"b. Es la acción de comparar dos magnitudes",
+        "incorrecta2":"c. Todo aquello que es susceptible a ser medido",
+        "incorrecta3":"a. Interacciones en el interior de la materia",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://4.bp.blogspot.com/-dqEhYE6rcK0/TpG2vHvT1pI/AAAAAAAAABE/KDszmL7STXE/s1600/kilogram-644x362.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Estatica",
+        "pregunta": "Magnitud vectorial es aquella que tiene:",
+        "respuesta": "b. Magnitud y Dirección",
+        "incorrecta1":"a. Magnitud y Unidad",
+        "incorrecta2":"c. Volumen y Magnitud",
+        "incorrecta3":"d. Frecuencia y Magnitud",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://i.ytimg.com/vi/o7khZhdMNU4/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Estatica",
+        "pregunta": "Cuando cualquier cuerpo que permanece en reposo o que tiene un movimiento uniforme bajo la acción de un sistema de fuerzas concurrentes se dice:",
+        "respuesta": "b. Que está en equilibrio",
+        "incorrecta1":"a. Que es estable",
+        "incorrecta2":"c. Que es inestable",
+        "incorrecta3":"d. Que es indiferente",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://www.abc.com.py/resizer/STdIAYT0Xh7OA-AUDM4zgkBahxc=/fit-in/400x257/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/abccolor/YULPJS3S4VF6DCSG35GETXUXQU.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Estatica",
+        "pregunta": "Si la particula se aleja de su estado original diremos que el equilibrio es",
+        "respuesta": "b. Inestable",
+        "incorrecta1":"a. Estable",
+        "incorrecta2":"c. Concurrente",
+        "incorrecta3":"d. Indiferente",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://i.ytimg.com/vi/o7khZhdMNU4/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Estatica",
+        "pregunta": "Si la particula ni regresa ni se aleja de su estado original, el equilibrio es: ",
+        "respuesta": "c. Indiferente",
+        "incorrecta1":"a. Inestable",
+        "incorrecta2":"b. Estable",
+        "incorrecta3":"d. Concurrente",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://www.autopista.es/uploads/s1/10/86/56/01/ilustracion-de-particulas-elementales-en-el-atomo.jpeg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Física - Estatica",
+        "pregunta": "La Palanca de segundo género de fuerza o de inter.Resistencia, el punto de apoyo está: ",
+        "respuesta": "a. En el extremo",
+        "incorrecta1":"b. Entre el apoyo y la fuerza resistente",
+        "incorrecta2":"c. Entre las dos fuerzas",
+        "incorrecta3":"d. b y c",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/files/2014/12/palanca.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Dinámica",
+        "pregunta": "Se refiere a las distintas posiciones que va ocupando un punto que se mueve a medida que transcurre el tiempo, este puede ser rectilineo, curvilineo, circular o parabólica, estamos hablando de: ",
+        "respuesta": "b. Trayectoria",
+        "incorrecta1":"a. Dinámica",
+        "incorrecta2":"c. Desplazamiento",
+        "incorrecta3":"d. Rapidez",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://i.ytimg.com/vi/9oVb-fPYiaY/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Dinámica",
+        "pregunta": "La rapidez es:",
+        "respuesta": "a. La velocidad",
+        "incorrecta1":"b. Aceleración",
+        "incorrecta2":"c. Trayectoria",
+        "incorrecta3":"d. La Celeridad",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://concepto.de/wp-content/uploads/2014/02/primera-ley-de-Newton-e1551574180389.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Dinámica",
+        "pregunta": "El rozamiento no depende de:",
+        "respuesta": "c. La extensión de las superficies en contacto",
+        "incorrecta1":"a. La velocidad relativa de las superficies",
+        "incorrecta2":"b. La naturaleza de las superficies en contacto",
+        "incorrecta3":"d. De la presión que hay entre los dos cuerpos",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://concepto.de/wp-content/uploads/2019/12/razonamiento-e1576884365606.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Trabajo, Potencia y Energía",
+        "pregunta": "Trabajo es:",
+        "respuesta": "d. a y b",
+        "incorrecta1":"a. El producto de la fuerza",
+        "incorrecta2":"b. Es una magnitud escalar",
+        "incorrecta3":"c. Es la capacidad para producir un trabajo",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://concepto.de/wp-content/uploads/2015/03/trabajo-en-fisica-3-e1550021919422.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Trabajo, Potencia y Energía",
+        "pregunta": "Potencia es:",
+        "respuesta": "d. a y c",
+        "incorrecta1":"a. El trabajo realizado en la unidad de tiempo",
+        "incorrecta2":"b. Es la capacidad para producir un trabajo",
+        "incorrecta3":"c. Es la rapidez con que una fuerza realiza trabajo",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://i.ytimg.com/vi/tB5-NPxqueQ/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Trabajo, Potencia y Energía",
+        "pregunta": "Energia es:",
+        "respuesta": "c. La capacidad para producir un trabajo",
+        "incorrecta1":"a. El trabajo realizado en la unidad de tiempo",
+        "incorrecta2":"b. Es la capacidad que posee un cuerpo para realizar un trabajo debido a un movimiento",
+        "incorrecta3":"d. Es la rapidez con que una fuerza realiza trabajo",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://lahoracero.org/wp-content/uploads/2013/05/Save-Energy.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Trabajo, Potencia y Energía",
+        "pregunta": "Energia Potencial es:",
+        "respuesta": "d. Es la que encierra un cuerpo en virtud de su posición o condición",
+        "incorrecta1":"a. El producto de la fuerza",
+        "incorrecta2":"b. Es el trabajo realizado en la unidad de tiempo",
+        "incorrecta3":"c. Es la capacidad para producir un trabajo",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Animaci%C3%B3n1.gif/300px-Animaci%C3%B3n1.gif",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Las particulas del medio oscilan a la misma dirección de propagación de la onda, es una onda:",
+        "respuesta": "b. Longitudinal",
+        "incorrecta1":"a. Transversal",
+        "incorrecta2":"c. De Amplitud",
+        "incorrecta3":"d. De Frecuencia",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://cdn-v1.udocz-assets.com/uploads/book/cover/101435/fisica_-_ondas_i.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Es la distancia entre dos crestas adyacentes de la onda, es:",
+        "respuesta": "c. Longitud de onda",
+        "incorrecta1":"a. Amplitud",
+        "incorrecta2":"b. Frecuencia",
+        "incorrecta3":"d. Alternancia",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://i.ytimg.com/vi/J6GUv8MBM6g/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Es el maximo desplazamiento de las particulas del medio en que se propagan la onda a un lado u otro de su posición de equilibrio, es:",
+        "respuesta": "b. Amplitud",
+        "incorrecta1":"a. Frecuencia",
+        "incorrecta2":"c. Ciclo",
+        "incorrecta3":"d. Longitud de onda",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://qph.cf2.quoracdn.net/main-qimg-1fde5b4c6f8f99498def4607a71157d4",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "En cada parte de la curva de la onda que se encuentra por debajo o por encima a la linea neutral, es:",
+        "respuesta": "c. Alternancia",
+        "incorrecta1":"a. Ciclo",
+        "incorrecta2":"b. Periodo",
+        "incorrecta3":"d. Amplitud",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://rdv-files.nyc3.cdn.digitaloceanspaces.com/pub/html/files_html/2/5/9/000712593.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Dos alternancias suscesivas constituyen:",
+        "respuesta": "c. Un Ciclo",
+        "incorrecta1":"a. Un Periodo",
+        "incorrecta2":"b. La Frecuencia",
+        "incorrecta3":"d. La Amplitud",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://ecomunicipal.co.cr/wp-content/uploads/2019/07/ciclodevida.jpg",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "La velocidad del sonido a cero grados centigrados es de:",
+        "respuesta": "c. 331 m/s",
+        "incorrecta1":"a. 301 m/s^2",
+        "incorrecta2":"b. 302 m/s",
+        "incorrecta3":"d. 304 m/s^2",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aaef8bcd-f592-472b-a3ec-58dd07176f13_16-9-aspect-ratio_default_0.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "El sonido puede ser captado por el oido humano a una frecuencia de:",
+        "respuesta": "d. a y b",
+        "incorrecta1":"a. 30 Hz",
+        "incorrecta2":"b. 20 Khz",
+        "incorrecta3":"c. 25 Khz",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://audioactive.es/cdn/shop/articles/Imagen_oido.jpg?v=1668705202",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Está relacionado con lo agudo y grave del sonido, estamos hablando de: ",
+        "respuesta": "a. Tono",
+        "incorrecta1":"b. Intensidad",
+        "incorrecta2":"c. Timbre",
+        "incorrecta3":"d. Eco",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/Como-se-mide-el-sonido-3.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "El sonido audible más débil tiene una intensidad de:",
+        "respuesta": "c. 10^-12 W/cm^2",
+        "incorrecta1":"b. 10^-4 W/cm^2",
+        "incorrecta2":"a. 10^-16 W/cm^2",
+        "incorrecta3":"d. 10^-10 W/cm^2",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/Como-se-mide-el-sonido-3.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "El sonido de mayor intensidad llega a producir senseción dolorosa, es:",
+        "respuesta": "a. 10^-16 W/cm^2",
+        "incorrecta1":"b. 10^-4 W/cm^2",
+        "incorrecta2":"a. 10^-12 W/cm^2",
+        "incorrecta3":"d. 10^-10 W/cm^2",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kkl3So6_WmwUuly7u6-GykWCa8mIDzyUwg&usqp=CAU",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "La intensidad de la voz humana en una conversación ordinaria es alrededor de:",
+        "respuesta": "b. 10^-10 W/cm^2",
+        "incorrecta1":"c. 10^-14 W/cm^2",
+        "incorrecta2":"a. 10^-12 W/cm^2",
+        "incorrecta3":"d. 10^-4 W/cm^2",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kkl3So6_WmwUuly7u6-GykWCa8mIDzyUwg&usqp=CAU",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "La velocidad del sonido en el aire es de:",
+        "respuesta": "c. 343 m/s",
+        "incorrecta1":"a. 345 m/s",
+        "incorrecta2":"b. 340 m/s",
+        "incorrecta3":"d. 350 m/s",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://s1.abcstatics.com/media/ciencia/2020/10/09/Ondassonoras-knoE--1248x698@abc.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "La velocidad de la luz en el agua es de:",
+        "respuesta": "c. 225.000 Km/s",
+        "incorrecta1":"a. 300.000 Km/s^2",
+        "incorrecta2":"b. 300.000 Km/m",
+        "incorrecta3":"d. 225.000 Km/h",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://smart-lighting.es/wp-content/uploads/2015/01/laser-investiga-reducir-veloc-luzext.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Es el fenomeno que se presenta cuando un tren de onda encuentra una superficie que no puede pasar, es:",
+        "respuesta": "b. Reflexión",
+        "incorrecta1":"a. Rarefacción ",
+        "incorrecta2":"c. Refracción",
+        "incorrecta3":"d. Ley de Snell",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://slideplayer.es/slide/5569146/2/images/4/REFLEXI%C3%93N+Consiste+en+el+cambio+de+direcci%C3%B3n+que+experimenta+un+tren+de+ondas+al+chocar+con+una+superficie+lisa+sin+atravesarla..jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "El ángulo de Reflexión es igual al ángulo de incidencia, es:",
+        "respuesta": "c. 2ª ley de Reflexión",
+        "incorrecta1":"a. 2ª ley de Refracción ",
+        "incorrecta2":"b. ley de Snell",
+        "incorrecta3":"d. 1ª ley de Reflexión",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://cdn.diferenciador.com/imagenes/reflexion2-cke.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "En los espejos esféricos, si el objeto se encuentra en el foco principal y el espejo la imagen es:",
+        "respuesta": "b. Virtual, Derecha, de mayor tamaño",
+        "incorrecta1":"a. Virtual, Derecha, de menor tamaño",
+        "incorrecta2":"c. Real Invertida",
+        "incorrecta3":"d. Virtual Derecha",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://cdn.diferenciador.com/imagenes/reflexion2-cke.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Es el cambio de dirección de la luz al pasar de un medio a otro de distinta r3efringencia, es:",
+        "respuesta": "c. Refracción",
+        "incorrecta1":"a. Reflexión",
+        "incorrecta2":"b. Ley de Snell",
+        "incorrecta3":"d. Rarefacción",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://es-static.z-dn.net/files/d5a/0cb557f21c869a84139bb4bb470329f7.png",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Esta clase de lentes son aquellos que separan a un más los rayos que llegan paralelos, son:",
+        "respuesta": "a. Divergentes",
+        "incorrecta1":"b. Convergentes",
+        "incorrecta2":"c. Biconvexas",
+        "incorrecta3":"d. Concaconvexas",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://blogs.ugto.mx/rea/wp-content/uploads/sites/71/2022/03/Captura-de-Pantalla-2022-03-30-a-las-15.59.36.png",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "Esta clase de lente concentra a un punto los rayos que llegan paralelos, es:",
+        "respuesta": "a. Concaconvexos",
+        "incorrecta1":"b. Biconcavas",
+        "incorrecta2":"c. Planoconcavas",
+        "incorrecta3":"d. Convexoconcavas",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://difiere.com/wp-content/uploads/sites/4/2018/08/fig2_7.gif",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Física - Sonido y Optica",
+        "pregunta": "En el centro de curvatura (C.C.) da una imagen real, de igual tamaño, invertida y al otro lado de la lente, es el caso: ",
+        "respuesta": "b. 3er",
+        "incorrecta1":"a. 2do",
+        "incorrecta2":"c. 4to",
+        "incorrecta3":"d. 5to",
+        "incorrecta4":"e. Ninguno",
+        "imagen": "https://slideplayer.es/slide/15459720/93/images/11/Imagen+formada+por+un+espejo+c%C3%B3ncavo+cuando+el+objeto+est%C3%A1+en+el+centro+de+curvatura..jpg",
+        "objectFit": "cover"
+    }   
+
+]
